@@ -25,8 +25,7 @@ The ultrasonic sensor transmits high-frequency sound waves and measures the refl
 - Expandable architecture
 
 ## Hardware Architecture
-![Alt text]("C:\Users\Arktech\Downloads\Hardware Architure.png")
-
+(Hardware Architure.png)
 
 
 (Add block diagram here)
