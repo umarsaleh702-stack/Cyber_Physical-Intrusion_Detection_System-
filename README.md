@@ -6,6 +6,7 @@ This project presents an ultrasonic-based perimeter intrusion detection system d
 ## Objectives
 - Detect intruders within a predefined perimeter.
 - Provide real-time alerting.
+- Display the distance
 - Develop a low-cost and reliable security solution.
 
 ## System Components
@@ -25,20 +26,16 @@ The ultrasonic sensor transmits high-frequency sound waves and measures the refl
 - Expandable architecture
 
 ## Hardware Architecture
-(Hardware Architure.png)
-
-
-
-(Add block diagram here)
+(https://github.com/umarsaleh702-stack/Cyber_Physical-Intrusion_Detection_System-/blob/main/Block_Diagram.png)
 
 ## Circuit Diagram
-(Add circuit diagram here)
+(https://github.com/umarsaleh702-stack/Cyber_Physical-Intrusion_Detection_System-/blob/main/Circuit_Diagram.png))
 
 ## Software Implementation
 The system was programmed using Esp32. Distance measurements are continuously monitored and compared against a predefined threshold.
 
 ## Results
-The system successfully detected intrusions within the monitored perimeter and generated alarm notifications with minimal delay.
+The system successfully detected intrusions within the monitored perimeter and generated alarm and displayed the distance.
 
 ## Future Improvements
 - IoT-based remote monitoring
